@@ -5,7 +5,7 @@
 
 
 
-**LSGRN is a large-scale gene regulatory network inference method based on multi model fusion, which includes dimension reduction using maximum mutual information coefficient and feature fusion of XGBoost and RF machine learning models.** 
+**iLSGRN is a large-scale gene regulatory network inference method based on multi model fusion, which includes dimension reduction using maximum mutual information coefficient and feature fusion of XGBoost and RF machine learning models.** 
 
 If you find our method is useful, please cite our paper:
 
