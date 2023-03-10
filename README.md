@@ -1,4 +1,4 @@
-# LSGRN: Inference of large-scale gene regulatory networks based on multi-model fusion
+# iLSGRN: Inference of large-scale gene regulatory networks based on multi-model fusion
 
 
 1 College of Information Science and Technology, Dalian Maritime University, Dalian 116039, China
